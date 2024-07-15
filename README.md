@@ -7,6 +7,7 @@
 Current foci and areas of interest:
 - Nonlinear partial differential equations of nonlocal type
 - Numerical and stochastic analysis applied to nonlinear phenomena such as water waves
+- Symmetry analysis à la Lie applied to PDEs of nonlocal evolution equations 
 
 Programming interests and further learning goals:
 - Machine learning, numerical analysis and symbolic calculus in Python

@@ -12,4 +12,4 @@ Current foci and areas of interest:
 Programming interests and further learning goals:
 - Machine learning, numerical analysis and symbolic calculus in Python
 - Modelling and simulation of PDE-inspired work in C++
-- Light frontend development with JavaScript/TypeScript with some React thrown in
+- Light frontend development with JavaScript/TypeScript with some React and Bootstrap thrown in

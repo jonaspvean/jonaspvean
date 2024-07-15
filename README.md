@@ -1,16 +1,14 @@
-## Hi there 👋
+## Jonas Pedersen Vean
 
 <!--
 **jonaspvean/jonaspvean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
+
+Current foci and areas of interest:
+- Nonlinear partial differential equations of nonlocal type
+- Numerical and stochastic analysis applied to nonlinear phenomena such as water waves
+
+Programming interests and further learning goals:
+- Machine learning, numerical analysis and symbolic calculus in Python
+- Modelling and simulation of PDE-inspired work in C++
+- Light frontend development with JavaScript/TypeScript with some React thrown in

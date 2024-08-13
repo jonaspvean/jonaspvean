@@ -10,6 +10,6 @@ Current foci and areas of interest:
 - Symmetry analysis à la Lie applied to PDEs of nonlocal evolution equations 
 
 Programming interests and further learning goals:
-- Machine learning, numerical analysis and symbolic calculus in Python
+- Machine learning, data analysis, numerical analysis, and symbolic calculus in Python
 - Modelling and simulation of PDE-inspired work in C++
 - Light frontend development with JavaScript/TypeScript with some React and Bootstrap thrown in

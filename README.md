@@ -4,6 +4,8 @@
 **jonaspvean/jonaspvean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
+Hello! 👋
+
 Current foci and areas of interest:
 - Nonlinear partial differential equations of nonlocal type
 - Numerical and stochastic analysis applied to nonlinear phenomena such as water waves
